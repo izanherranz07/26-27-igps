@@ -44,3 +44,14 @@ git checkout -b docs/modificaciones
 
 <img width="1142" height="85" alt="5" src="https://github.com/user-attachments/assets/a712720b-ce4c-4e79-95f0-9e568456fbb1" />
 
+## 6. Push rama docs/modificaciones
+
+<img width="1140" height="22" alt="6" src="https://github.com/user-attachments/assets/5794db13-f470-4448-8f34-f867dde00d64" />
+
+## 7. Pasar todo de la rama docs/modificaciones a main
+
+<img width="1917" height="1016" alt="7" src="https://github.com/user-attachments/assets/c9655952-29d8-455b-949c-13adc48884c9" />
+
+## 8. Crear Pull Request
+
+<img width="1917" height="922" alt="8" src="https://github.com/user-attachments/assets/eb86856e-7354-4001-bae0-1aac1bef705d" />
